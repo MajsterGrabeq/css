@@ -1,0 +1,35 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="tu mamu zawartosc uwu">
+	<title>Zadanie_4</title>
+</head>
+<body>
+<ol>
+<li><h3>Zewnętrzny arkusz stylów.</h3>
+<textarea cols="100" rows="3"><head>
+<link rel="Stylesheet" type="text/css" href="style.css" />
+</head></textarea>
+<li><h3>Styl lokalny inaczej: (styl wpisany, liniowy, linijkowy, w linii) czyli<br>
+dopisanie arkusza do wybranego bloku treści strony.</h3>
+<textarea cols="100" rows="1" ><selektor style="cecha1: wartość1; cecha2: wartość2...">...</selektor></textarea>
+<li><h3>Wewnętrzny arkusz stylów</h3>
+<textarea cols="100" rows="6" ><head>
+ <style type="text/css">
+ selektor1 { cecha: wartość; cecha2: wartość2... }
+ selektor2 { cecha: wartość; cecha2: wartość2... }
+ </style>
+</head></textarea>
+<li><h3>Alternatywny arkusz stylów.</h3>
+<textarea cols="100" rows="5" ><head>
+<link rel="Stylesheet" type="text/css" href="style.css" title="Nazwa domyślna" />
+<link rel="Alternate stylesheet" type="text/css" href="style1.css" title="Nazwa 1" />
+<link rel="Alternate stylesheet" type="text/css" href="style2.css" title="Nazwa 2" />
+</head></textarea>
+<li><h3>Import arkusza stylów</h3>
+<textarea cols="100" rows="3" ><style type="text/css">
+ @import url(adres zewnętrznego arkusza stylów);
+</style></textarea>
+</ol>
+</body>
+</html>
