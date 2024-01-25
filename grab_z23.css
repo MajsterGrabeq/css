@@ -1,0 +1,45 @@
+p#pogrubione_grabowski
+{
+  font-size:34;
+  font-weight:900;
+  color:#8129CC;
+}
+
+p#pochylone_grabowski
+{
+  font-style: italic;
+  font-size:39;
+  color:#E1B668;
+}
+
+p#index_gorny_grabowski
+{
+  vertical-align:super;
+  font-size:1.4cm;
+  color:#958D18;
+}
+
+p#index_dolny_grabowski
+{
+  vertical-align:sub;
+  font-size:2.3cm;
+  color:rgb(18%,94%,88%);
+}
+p#mono_grabowski
+{
+  font-size:44px;
+  color:#15DD68;
+}
+
+
+p#powiekszenie_grabowski
+{
+  font-size:30px;
+  color:#4F3D9A;
+}
+
+p#pomniejszenie_grabowski
+{
+  font-size:32px;
+  color:rgb(70%,63%,21%);
+}

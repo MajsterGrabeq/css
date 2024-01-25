@@ -1,0 +1,17 @@
+p
+{	
+	 color: red;
+	 font-size:22pt;
+}
+p#gruby_grabowski
+{
+     color: green;
+	 font-size:17pt;
+	 font-weight: 900;
+}
+#dlawszystkich_grabowski
+{
+	color: yellow;
+	font-size:10pt;
+	font-family:Arial;
+}
