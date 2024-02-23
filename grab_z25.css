@@ -7,53 +7,53 @@ p#tytul1
 {
 	text-align:center;
 	font-size:50px;
-	color:gold;
+	color: LightSalmon;
 }
 p#tytul2
 {
 	text-align:right;
 	font-size:50px;
-	color:#87CEEB;
+	color:SeaGreen;
 }
 p#zdaniepie
 {
 	text-align:center;
     font-style:Italic;
 	font-weight: 200;
-	font-size: x-large;
+	font-size: large;
 	font-family: Serif;
-	color: gold;
-	text-indent: 30mm;
+	color: Coral;
+	text-indent: 2cm;
 	line-height: 1cm;
 	word-spacing: 12px;
-	letter-spacing:18mm;
+	letter-spacing:5ex;
 }
 p#zdaniedru
 {
 	text-align:center;
 	text-decoration: overline;
-	font-weight: 900;
+	font-weight: 700;
 	font-size: x-small;
 	font-family: Serif;
-	color:#FFFF00;
-	text-indent: 30mm;
+	color:#FF4500;
+	text-indent: 2cm;
 	line-height: 1cm;
 	word-spacing: 12px;
-	letter-spacing:18mm;
+	letter-spacing:5ex;
 }
 p#zdanietrz
 {
 	text-align:center;
 	font-variant: small-caps;
 	text-transform: lowercase;
-	font-weight: 400;
-	font-size: xx-large;
+	font-weight: 900;
+	font-size: medium;
 	font-family: Serif;
-	color: moccasin;
-	text-indent: 30mm;
+	color: #FF8C00;
+	text-indent: 2cm;
 	line-height: 1cm;
 	word-spacing: 12px;
-	letter-spacing:18mm;
+	letter-spacing:5ex;
 }
 p#zdaniepied
 {
@@ -62,11 +62,11 @@ p#zdaniepied
 	font-weight: 300;
 	font-size: 50px;
 	font-family: Sans-Serif;
-	color: Aqua;
-	text-indent: 1cm;
-	line-height: 1cm;
-	word-spacing: 12px;
-	letter-spacing:2ex;
+	color: teal;
+	text-indent: 25mm;
+	line-height: 15mm;
+	word-spacing: 10pt;
+	letter-spacing:5mm;
 }
 p#zdaniedrud
 {
@@ -76,11 +76,11 @@ p#zdaniedrud
 	font-weight: 600;
 	font-size: 1em;
 	font-family: Sans-Serif;
-	color: Cyan;
-	text-indent: 1cm;
-	line-height: 1cm;
-	word-spacing: 12px;
-	letter-spacing:2ex;
+	color: #008000;
+	text-indent: 25mm;
+	line-height: 15mm;
+	word-spacing: 10pt;
+	letter-spacing:5mm;
 }
 p#zdanietrzd
 {
@@ -89,9 +89,9 @@ p#zdanietrzd
 	font-weight: 800;
 	font-size: 0.1in;
 	font-family: Sans-Serif;
-	color: DeepSkyBlue;
-	text-indent: 1cm;
-	line-height: 1cm;
-	word-spacing: 12px;
-	letter-spacing:2ex;
+	color: #006400;
+	text-indent: 25mm;
+	line-height: 15mm;
+	word-spacing: 10pt;
+	letter-spacing:5mm;
 }
